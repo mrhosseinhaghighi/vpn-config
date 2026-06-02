@@ -1,2 +1,8 @@
-
-ddd
+[
+  {
+    "id": "1",
+    "name": "Germany",
+    "country": "DE",
+    "config": "vless://..."
+  }
+]
