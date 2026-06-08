@@ -1,80 +1,25 @@
-[
-  {
-    "id": "1",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@104.21.76.208:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086"
-  },
-  {
-    "id": "2",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@www.speedtest.net:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiUmkyTmxNaDc1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#💦 2 - VLESS - Domain : 2086"
-  },
-  {
-    "id": "3",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@aged-mode-ff57.hoseinhaghighi74.workers.dev:443?encryption=none&security=tls&sni=ageD-MOdE-fF57.HOSeInhAGhIghi74.WorKErS.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoieklkdHVIcHdkVE02RFgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#💦 5 - VLESS - Domain : 443"
-  },
-  {
-    "id": "4",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@172.67.201.13:2096?encryption=none&security=tls&sni=AgED-moDE-FF57.hoSeInHAGHIGhI74.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiaTdHT2YxbXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#💦 12 - VLESS - IPv4 : 2096"
-  },
-  {
-    "id": "5",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@104.21.76.208:443?encryption=none&security=tls&sni=AGeD-mODe-ff57.hoSEInhaGHiGhi74.wORkERS.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiQ1Z6YnhVWFc4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#💦 7 - VLESS - IPv4 : 443"
-  },
-  {
-    "id": "6",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@aged-mode-ff57.hoseinhaghighi74.workers.dev:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiV0lnZTJSbGg4RXV5SCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 1 - VLESS - Domain : 2086"
-  },
-  {
-    "id": "7",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@aged-mode-ff57.hoseinhaghighi74.workers.dev:2096?encryption=none&security=tls&sni=AgEd-modE-ff57.HOSeiNHagHIgHi74.woRkeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiaUZrbjNvQ09waVBWRE0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#💦 9 - VLESS - Domain : 2096"
-  },
-  {
-    "id": "8",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@172.67.201.13:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiVUpGWlJocmZ1RGpXNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 4 - VLESS - IPv4 : 2086"
-  },
-  {
-    "id": "9",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@172.67.201.13:443?encryption=none&security=tls&sni=AGEd-modE-fF57.hOsEiNHaGhIghi74.WorKErS.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoieTNyb1JuM085MkdMOFhEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#💦 8 - VLESS - IPv4 : 443"
-  },
-  {
-    "id": "10",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.20:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086"
-  },
-  {
-    "id": "11",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.117:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086"
-  },
-  {
-    "id": "12",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.147:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086"
-  },
-  {
-    "id": "13",
-    "name": "Germany",
-    "country": "DE",
-    "config": "vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.230:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086"
-  }
-]
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@104.21.76.208:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@www.speedtest.net:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiUmkyTmxNaDc1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#💦 2 - VLESS - Domain : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@aged-mode-ff57.hoseinhaghighi74.workers.dev:443?encryption=none&security=tls&sni=ageD-MOdE-fF57.HOSeInhAGhIghi74.WorKErS.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiekl0dHVIcHdkVE02RFgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#💦 5 - VLESS - Domain : 443
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@172.67.201.13:2096?encryption=none&security=tls&sni=AgED-moDE-FF57.hoSeInHAGHIGhI74.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiaTdHT2YxbXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#💦 12 - VLESS - IPv4 : 2096
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@104.21.76.208:443?encryption=none&security=tls&sni=AGeD-mODe-ff57.hoSEInhaGHiGhi74.wORkERS.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiQ1Z6YnhVWFc4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#💦 7 - VLESS - IPv4 : 443
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@aged-mode-ff57.hoseinhaghighi74.workers.dev:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiV0lnZTJSbGg4RXV5SCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 1 - VLESS - Domain : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@aged-mode-ff57.hoseinhaghighi74.workers.dev:2096?encryption=none&security=tls&sni=AgEd-modE-ff57.HOSeiNHagHIgHi74.woRkeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiaUZrbjNvQ09waVBWRE0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#💦 9 - VLESS - Domain : 2096
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@172.67.201.13:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiVUpGWlJocmZ1RGpXNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 4 - VLESS - IPv4 : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@172.67.201.13:443?encryption=none&security=tls&sni=AGEd-modE-fF57.hOsEiNHaGhIghi74.WorKErS.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoieTNyb1JuM085MkdMOFhEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#💦 8 - VLESS - IPv4 : 443
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.20:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.117:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.147:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086
+
+vless://48a10710-45b8-495a-8e6c-f0bf77d2b736@103.31.4.230:2086?encryption=none&security=none&type=ws&host=aged-mode-ff57.hoseinhaghighi74.workers.dev&path=%2FeyJqdW5rIjoiTnh6TjJzbGx1SG9ZUUFlMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#💦 3 - VLESS - IPv4 : 2086
